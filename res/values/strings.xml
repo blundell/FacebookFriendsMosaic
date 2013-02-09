@@ -4,5 +4,8 @@
   <string name="app_name">FriendMosaicCreator</string>
   <string name="hello_world">Hello world!</string>
   <string name="menu_settings">Settings</string>
+  <string name="label_activity_login">Login</string>
+  <string name="label_activity_create_mosaic">Create Mosaic</string>
+  <string name="activity_entice_button_login">You\'ll have to login to Facebook for this to work</string>
 
 </resources>
